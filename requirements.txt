@@ -11,6 +11,7 @@ dj-database-url==2.3.0
 Django==5.1.4
 Flask==3.1.0
 Flask-Cors==5.0.0
+gunicorn==23.0.0
 idna==3.10
 immutabledict==4.2.1
 itsdangerous==2.2.0
@@ -20,6 +21,7 @@ MarkupSafe==3.0.2
 numpy==2.1.3
 ortools==9.11.4210
 oscrypto==1.3.0
+packaging==24.2
 pandas==2.2.3
 pillow==11.0.0
 protobuf==5.26.1
